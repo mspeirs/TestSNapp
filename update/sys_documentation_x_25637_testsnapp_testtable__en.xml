@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="TestTable" language="en" table="x_25637_testsnapp_testtable">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>TestTable</label>
+            <language>en</language>
+            <name>x_25637_testsnapp_testtable</name>
+            <plural>TestTables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-05-18 00:16:42</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>7146da0c4feb5200540e6b628110c719</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>TestTable</sys_name>
+            <sys_package display_value="TestSNapp" source="x_25637_testsnapp">4d2652084feb5200540e6b628110c742</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="TestSNapp">4d2652084feb5200540e6b628110c742</sys_scope>
+            <sys_update_name>sys_documentation_x_25637_testsnapp_testtable__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-05-18 00:16:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
